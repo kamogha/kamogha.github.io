@@ -1,0 +1,65 @@
+body {
+  width: 1440px;
+  height: auto;
+  font-size: 32px;
+}
+
+div {
+  position: relative;
+}
+
+section {}
+
+.quotes {
+  position: absolute;
+  top: 25%;
+  left: 15%;
+  display: inline-block;
+}
+
+.curve {
+  display: inline-block;
+}
+
+.bg {
+  top: -40px;
+  position: relative;
+  display: inline-block;
+}
+
+.tanya {
+  position: absolute;
+  display: inline-block;
+  left: 47%;
+}
+
+.upper-para {
+  display: inline-block;
+  width: 45%;
+  text-align: left;
+  position: absolute;
+  bottom: 270px;
+  margin: 0;
+  font-family: "Inter";
+  font-weight: lighter;
+}
+
+.down-para {
+  display: inline-block;
+  position: absolute;
+  bottom: 100px;
+  font-family: Inter;
+  font-weight: 300;
+}
+
+.para-div {
+  left: 90px;
+}
+
+.signature {
+  font-family: "Inter";
+  font-weight: 500;
+}
+.signature-color{
+  color:  hsl(240, 18%, 77%);
+}
