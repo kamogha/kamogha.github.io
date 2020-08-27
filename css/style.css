@@ -423,3 +423,10 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
+/* Omnifood */
+.omnifood {
+  margin: 0 auto;
+}
+.omnifood-Project {
+  margin-bottom: 0;
+}
